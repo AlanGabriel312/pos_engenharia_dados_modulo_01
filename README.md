@@ -1,3 +1,3 @@
-#Este é somente um respositório simples para todos os arquivos do módulo 01 da pós em engenharia de dados.
+# Este é somente um respositório simples para todos os arquivos do módulo 01 da pós em engenharia de dados.
 
 Na pasta PDI temos alguns arquivos .ktr que se referem ao Pentaho Data Integration. Além disso temos arquivos python para requisição via API do governo transparente. O projeto.py é uma consulta automática de contratos e convênios da API Ceará Transparente, utilizando paralelismo para acelerar a coleta e exportação dos dados em CSV.
